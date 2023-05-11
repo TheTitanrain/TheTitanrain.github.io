@@ -4,9 +4,12 @@ title: You're up and running!
 ---
 
 Ошибка Veeam Backup and Replication при выполнении задания:
+
 Failed to perform applying backup retention for restore point 16.02.2023 2:00:26 Error: Agent: Failed to process method {NasMaster.RetainShortTerm}: Connection was lost, task will be cancelled
 Error: Agent: Failed to process method {NasMaster.RetainShortTerm}: Connection was lost, task will be cancelled
+
 или
+
 Failed to perform applying backup retention policy for restore point 8/5/2020 9:00:32 PM Error: Agent: Failed to process method {NasMaster.RetainShortTerm}: Failed to find item 0005
 Error: Agent: Failed to process method {NasMaster.RetainShortTerm}: Failed to find item 0005
 
