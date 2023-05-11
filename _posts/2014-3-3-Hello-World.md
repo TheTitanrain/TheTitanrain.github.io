@@ -17,3 +17,5 @@ Error: Agent: Failed to process method {NasMaster.RetainShortTerm}: Failed to fi
 
 Решение:
 Удерживая клавишу CTRL, щелкните правой кнопкой мыши на задаче и выберите "Start new backup". Это действие начнёт новую цепочку резервных копий. После этого ошибка исчезнет.
+
+Ссылка с решением: https://forums.veeam.com/post388126.html#p388126
