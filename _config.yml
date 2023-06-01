@@ -2,7 +2,7 @@
 title:               Titanium Blog
 tagline:             'Не блог, а заметки'
 description:         'Не блог, а заметки'
-url:                 https://thetitanrain.github.io/
+url:                 https://titanrain.org
 baseurl:             ''
 paginate:            5
 permalink:           pretty
